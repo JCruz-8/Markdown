@@ -56,7 +56,23 @@ Aquí te la dejo:
 
 Y los dos bloques de código fuente, que son muy importantes.
 
-El primero, con un código que hemos aprendido en Python:
+El primero, con un código que hemos aprendido de ejemplo en Python:
+
+``````
+print ("\nBuenos días.")
+var_edad = int(input ("\n¿Edad? "))
+
+print (type(var_edad))
+
+if var_edad >= 18:
+    print ("¡Qué mayor!")
+else:
+    print ("¡Sigue creciendo!")
+
+print()
+``````
+
+Y ahora el código que nosotros hemos creado, también en Python:
 
 ``````
 print ("¡Buenos días!\n")
@@ -64,6 +80,5 @@ print ("¡Buenos días!\n")
 var_nombre = input ("¿Cuál es tu nombre?\n")
 var_edad = input ("¿Y tu edad?\n")
 
-#print(var_nombre, ", tu edad es: ", var_edad ,end="", sep="")
 print(f"{var_nombre}, tu edad es:  {var_edad}")
-
+``````
