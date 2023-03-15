@@ -1,6 +1,6 @@
 # Información sobre <strong>Final Fantasy IX</strong>
 
-Como doy por hecho que te ha llamado la atención en el [README](readme.md),
+Como doy por hecho que te ha llamado la atención en el [README](README.md),
 te voy a poner tres enlaces que estoy seguro que van a gustarte :D
 
 * Te comparto un enlace con la guía del juego
