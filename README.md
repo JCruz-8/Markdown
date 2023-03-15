@@ -58,7 +58,7 @@ Y los dos bloques de código fuente, que son muy importantes.
 
 El primero, con un código que hemos aprendido de ejemplo en Python:
 
-``````
+``````py
 print ("\nBuenos días.")
 var_edad = int(input ("\n¿Edad? "))
 
@@ -74,7 +74,7 @@ print()
 
 Y ahora el código que nosotros hemos creado, también en Python:
 
-``````
+``````py
 print ("¡Buenos días!\n")
 
 var_nombre = input ("¿Cuál es tu nombre?\n")
