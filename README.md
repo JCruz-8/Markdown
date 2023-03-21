@@ -46,13 +46,13 @@ Que no falte una tablita de 4x5 celdas. Eso nunca.
 
 Aquí te la dejo:
 
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 |
+| Personajes de Final Fantasy IX | Tipo Personaje | Tipo Arma | Habilidad Principal |
 |-----------|-----------|-----------|-----------|
-| Fila 1, C1| Fila 1, C2| Fila 1, C3| Fila 1, C4|
-| Fila 2, C1| Fila 2, C2| Fila 2, C3| Fila 2, C4|
-| Fila 3, C1| Fila 3, C2| Fila 3, C3| Fila 3, C4|
-| Fila 4, C1| Fila 4, C2| Fila 4, C3| Fila 4, C4|
-| Fila 5, C1| Fila 5, C2| Fila 5, C3| Fila 5, C4|
+| Yitán | Ladrón | Daga | Ataque Sorpresa |
+| Garnet | Invocadora | Cetro | Invocación |
+| Vivi | Mago Negro | Bastón | Magia Negra |
+| Steiner | Caballero | Espada | Ataque Físico |
+| Freija | Dragón Caballero | Lanza | Salto |
 
 Y los dos bloques de código fuente, que son muy importantes.
 
