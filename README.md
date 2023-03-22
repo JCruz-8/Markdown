@@ -32,7 +32,7 @@ Por cierto, te dejo otro enlace para que aprendas sobre <strong>EL</strong> jueg
 
 [Información del mejor juego del mundo](https://finalfantasy.fandom.com/es/wiki/Final_Fantasy_IX)
 
-Que, por cierto, te he dejado algo interesante en [INFORMACIÓN sobre Final Fantasy IX](informacion.md)<br>
+A todo esto... te he dejado algo interesante en [INFORMACIÓN sobre Final Fantasy IX](informacion.md)<br>
 <br>
 Y algo mucho más chulo en [INSTALACIÓN](instalacion.md). Pero para esto necesitar ir antes a [Información](informacion.md) :D <br>
 Siéntete libre de bichear.
